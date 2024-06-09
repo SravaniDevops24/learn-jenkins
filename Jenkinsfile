@@ -14,7 +14,7 @@ pipeline {
     }
 
     environment {
-        DEPLOY_ID = 'production'
+        DEPLOY_TO = 'production'
         GREETING = 'Good Evening'
 
     }
